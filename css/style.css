@@ -1,3 +1,6 @@
+body {
+	background color: blue;
+}
 .section1 {
     background-image: url(/img/section1.png);
     background-repeat: no-repeat;
